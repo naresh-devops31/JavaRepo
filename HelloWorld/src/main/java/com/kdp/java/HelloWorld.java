@@ -1,7 +1,6 @@
 package com.kdp.java;
 
 public class HelloWorld {
-
 	/**
 	 * @param args
 	 */
@@ -9,5 +8,4 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!!!");
 	}
-
 }
