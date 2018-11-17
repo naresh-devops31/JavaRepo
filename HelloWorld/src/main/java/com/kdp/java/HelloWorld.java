@@ -1,5 +1,4 @@
 package com.kdp.java;
-
 public class HelloWorld {
 	/**
 	 * @param args
